@@ -6,18 +6,99 @@
     <description>Recent content on kstm blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 26 Oct 2017 02:59:15 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 25 Sep 2016 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://kstm.shinshu-u.ac.jp/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello</title>
-      <link>https://kstm.shinshu-u.ac.jp/blog/posts/hello/</link>
-      <pubDate>Thu, 26 Oct 2017 02:59:15 +0900</pubDate>
+      <title>ISUCON6 予選突破！</title>
+      <link>https://kstm.shinshu-u.ac.jp/blog/posts/isucon6q/</link>
+      <pubDate>Sun, 25 Sep 2016 00:00:00 +0900</pubDate>
       
-      <guid>https://kstm.shinshu-u.ac.jp/blog/posts/hello/</guid>
-      <description>echo &#39;hello, world.&#39;  deployed by TravisCI !!</description>
+      <guid>https://kstm.shinshu-u.ac.jp/blog/posts/isucon6q/</guid>
+      <description>9月18日、ISUCON6 の予選が行われ、kstmメンバー三人で出場し、学生枠にて予選通過することができました！ ISUCONというコンテストは、レギュレーションに違反しない限りどんな手を使ってもいいので、とにかくサーバーを早くせよ！というコンテストです。 去年も予選を突破し、本戦では悔しい思いをしたので、今年は雪辱を果たしに行きます。 本戦は10月22日(土)、LINE株式会社 渋谷ヒカリエオフィスにて行われます。 頑張ってきます！！
+ISUCON6 本選出場者決定のお知らせ : ISUCON公式Blog</description>
+    </item>
+    
+    <item>
+      <title>梅雨の晴れ間でBBQをしました</title>
+      <link>https://kstm.shinshu-u.ac.jp/blog/posts/bbq-2016/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://kstm.shinshu-u.ac.jp/blog/posts/bbq-2016/</guid>
+      <description>２ヶ月前から企画してBBQがようやくできました。
+BBQをやろうとするたびに雨の連続…
+５回目の延期の末に久々の肉が食べれました。</description>
+    </item>
+    
+    <item>
+      <title>こどもプログラミング教室 第2回 (長野市）</title>
+      <link>https://kstm.shinshu-u.ac.jp/blog/posts/kodomo-programming-nagano-2/</link>
+      <pubDate>Sun, 04 Sep 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://kstm.shinshu-u.ac.jp/blog/posts/kodomo-programming-nagano-2/</guid>
+      <description>長野市で第二回目のプログラミング教室を行いました。
+子供たちは自分のIchigojamを持参して、最初から最後までBASICのプログラムと戦っていました。
+会場では画面とキーボードを用意していましたが、自分のキーボードも持参してやる気十分なお子さんやお子さんがコードを書くのを見ているうちにお父さんの方が熱中してしまうような場面がありました。</description>
+    </item>
+    
+    <item>
+      <title>ICTトラブルシューティングコンテスト 準優秀賞！</title>
+      <link>https://kstm.shinshu-u.ac.jp/blog/posts/ictsc6/</link>
+      <pubDate>Sun, 28 Aug 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://kstm.shinshu-u.ac.jp/blog/posts/ictsc6/</guid>
+      <description>8月28日、大阪京橋のNTT研修センターで行われたICTトラブルシューティングコンテストにチームkstm(カスタム)で参加し、準優秀賞を受賞しました。
+ICTトラブルシューティングコンテストとは、最大5人のチームでアプリケーション、サーバ、ネットワークの特にインフラに関する問題を解くコンテストです。
+前回は2月に行われており、2人で挑むこととなり、インフラに対する実力不足を感じていたところでしたが、 今回はフルメンバー5人で参加し、なんとか賞をもぎ取るに至りました。
+第6回トラコン – ICTSC | ICT トラブルシューティングコンテスト</description>
+    </item>
+    
+    <item>
+      <title>ICFP Contest 2016に参加しました。</title>
+      <link>https://kstm.shinshu-u.ac.jp/blog/posts/icfpc-2016/</link>
+      <pubDate>Mon, 08 Aug 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://kstm.shinshu-u.ac.jp/blog/posts/icfpc-2016/</guid>
+      <description>ICFP(関数型言語学会）が開催するプログラミングコンテストにkstmのメンバー4人で参加しました。 ICFPCは、参加人数・年齢制限のないコンテストで、8月6日の朝9時(UTC+9)から72時間かけて行いました。
+今年度の問題文
+正式な順位表が好評され次第追記します。</description>
+    </item>
+    
+    <item>
+      <title>こどもプログラミング教室 第1回 (長野市）</title>
+      <link>https://kstm.shinshu-u.ac.jp/blog/posts/kodomo-programming-nagano-1/</link>
+      <pubDate>Sat, 02 Jul 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://kstm.shinshu-u.ac.jp/blog/posts/kodomo-programming-nagano-1/</guid>
+      <description>7月2日 信州大学工学部敷地内にある長野市ものづくり支援センター・ビルにて、子どもを対象にしたプログラミング教室を行いました。 kstmのメンバー4人がお手伝いスタッフとして、子どもの疑問や説明で分からなかったところを補足したりしました。
+子どもプログラミング教室ではIchigoJamというBASICのプログラムが書けるボードを使い、第1回では半完成品の半田付けをしました。 初めて半田付けをするようなお子さんもおりましたが、無事皆さんプログラムが動くところまで確認出来ました！
+作ったIchigoJamはテレビとキーボードがあればお家でも使えるので、ぜひどんどん遊んでほしいです。 第2回が楽しみですね！</description>
+    </item>
+    
+    <item>
+      <title>ICPC国内予選に参加しました</title>
+      <link>https://kstm.shinshu-u.ac.jp/blog/posts/icpc-2016-tsukuba/</link>
+      <pubDate>Fri, 24 Jun 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://kstm.shinshu-u.ac.jp/blog/posts/icpc-2016-tsukuba/</guid>
+      <description>ACM（コンピュータ科学分野の国際学会）が主催するICPC（大学対抗プログラミングコンテスト） に参加しました。
+ICPCは1チーム3人で、与えられる課題を解くプログラム書き、正しい結果を得られた正解数を競い合うコンテストです。
+日本国内予選は各大学でインターネット上で行われ、384チームが参加しました。 信州大学からは3チームが参加し、9人中7人がkstmのメンバーでした。(順位表)
+惜しくも本戦出場することはできませんでしたが、来年のICPCに向けて力を蓄えたいと思います。</description>
+    </item>
+    
+    <item>
+      <title>こどもプログラミング教室 第1回 (売木村）</title>
+      <link>https://kstm.shinshu-u.ac.jp/blog/posts/kodomo-programming-urugi/</link>
+      <pubDate>Sun, 19 Jun 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://kstm.shinshu-u.ac.jp/blog/posts/kodomo-programming-urugi/</guid>
+      <description>6月19日(日)に長野県売木村にて子ども向けのプログラミング教室を行いました。 私たちkstmはTAとして2人に1人kstmの学生が付いて小中学生の疑問に答えました。
+売木村は南信に位置する人口587人（平成28年5月末現在）の小さな村 です。
+半田づけをして、BASICのプログラムを書くことが出来るIchigoJamというボードを使っています。 初回はIchigoJamを動かすために電子部品の半田付けを行いました。 参加者は初めて触る半田ごてに苦戦しつつも、全員が半田ごての工程を終えることが出来ました。
+今年から信州大学総合情報センター長の不破泰教授主導の下、長野県内の市町村で小中学生に向けたプログラミング教室を行っています。</description>
     </item>
     
   </channel>

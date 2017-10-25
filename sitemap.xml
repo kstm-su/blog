@@ -3,8 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kstm.shinshu-u.ac.jp/blog/posts/hello/</loc>
-    <lastmod>2017-10-26T02:59:15+09:00</lastmod>
+    <loc>https://kstm.shinshu-u.ac.jp/blog/posts/isucon6q/</loc>
+    <lastmod>2016-09-25T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kstm.shinshu-u.ac.jp/blog/posts/bbq-2016/</loc>
+    <lastmod>2016-09-09T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kstm.shinshu-u.ac.jp/blog/posts/kodomo-programming-nagano-2/</loc>
+    <lastmod>2016-09-04T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kstm.shinshu-u.ac.jp/blog/posts/ictsc6/</loc>
+    <lastmod>2016-08-28T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kstm.shinshu-u.ac.jp/blog/posts/icfpc-2016/</loc>
+    <lastmod>2016-08-08T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kstm.shinshu-u.ac.jp/blog/posts/kodomo-programming-nagano-1/</loc>
+    <lastmod>2016-07-02T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kstm.shinshu-u.ac.jp/blog/posts/icpc-2016-tsukuba/</loc>
+    <lastmod>2016-06-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kstm.shinshu-u.ac.jp/blog/posts/kodomo-programming-urugi/</loc>
+    <lastmod>2016-06-19T00:00:00+09:00</lastmod>
   </url>
   
   <url>
@@ -14,7 +49,7 @@
   
   <url>
     <loc>https://kstm.shinshu-u.ac.jp/blog/posts/</loc>
-    <lastmod>2017-10-26T02:59:15+09:00</lastmod>
+    <lastmod>2016-09-25T00:00:00+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -25,7 +60,7 @@
   
   <url>
     <loc>https://kstm.shinshu-u.ac.jp/blog/</loc>
-    <lastmod>2017-10-26T02:59:15+09:00</lastmod>
+    <lastmod>2016-09-25T00:00:00+09:00</lastmod>
     <priority>0</priority>
   </url>
   
