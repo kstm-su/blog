@@ -6,9 +6,9 @@ env:
     - secure: "A3ZnG8mih2RDov4JuUZz2+BithD50/u8DE57rm211fZrazF4Fjpjsc4v8FiKJtwNRbAYCWDjpV0mXPj8/4afJ0/UZjb4tGBqo3axYm3yeRz6o/8Hfvz3N9B2UHflmjbFZHA/3mHT+rBAxJmYb6N6XJtL4j2uM6/VnGvg/9sjc3PMCn5WMomzliY+rvnC0CIN7Tc2RI0CdDmy0LkIR7TzQAORLawyfkYhx2yAVrSHvxTx9WeoZOLCHDTxYLo0r5b1GVwS501d+x2l98+Zmzao+2DncWAbbaF7dY7RzPdIRuyxWoYZetmsBzrN+kqpme7z0R/Dl+GkTNvUa85pyaNOMbKVSmxGxL+hvW6FtmLQj1mYpy2YlXzcz94Yu4tQ9JXFZoITsZmyKjheAWYQ5YdIYNTeRM6NulbArvN/1BTsRyezA4cO0icTjk9fUuv/Ikn0CKUrefCVLCFdrijhcSpESXp1TYcN0vyR12Ag3rWa1H5BI0kOLJniWW12JkgDP7amoqObNGemxWlAFBt4HqWf5LV07gfToFgCLte9LNnjoHe2fLdcqbSx19Re7XrUPcAhMs88OZFrGMObyUjBEMFO+ykTBjRg09cW0IqeyszIrAW64jlpnHMj25bdIhOLR5Hb0K50oG34cIL0omrlY2Ms4X2m86BNq4vG22D/BQ693Ks="
 
 install:
-  - wget https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_linux_amd64.tar.gz
-  - tar xzf hugo_${HUGO_VERSION}_linux_amd64.tar.gz
-  - mv hugo_${HUGO_VERSION}_linux_amd64/hugo_${HUGO_VERSION}_linux_amd64 /usr/local/bin/hugo
+  - wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
+  - tar xzf hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
+  - mv hugo_${HUGO_VERSION}_Linux-64bit/hugo /usr/local/bin/hugo
 
 before_deploy:
   - hugo
