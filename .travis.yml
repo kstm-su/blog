@@ -10,9 +10,8 @@ install:
   - tar xzf hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
 
 before_deploy:
-  - ./hugo
   - git worktree add public gh-pages
-  - git worktree list
+  - ./hugo
 
 deploy:
   skit_cleanup: true
