@@ -14,6 +14,6 @@ if [ "$TRAVIS_BRANCH" != "gh-pages" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; 
 
 	cd ..
 
-	git push "https://${GIT_TOKEN}@github.com/kstm-su/blog.git" gh-pages
+	git push origin gh-pages
 fi
 
