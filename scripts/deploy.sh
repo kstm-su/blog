@@ -6,7 +6,7 @@ set -o pipefail
 cd "$(dirname $0)/.."
 
 #if [ "$TRAVIS_BRANCH" == "master" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
-if [ "$TRAVIS_BRANCH" != "gh-pages" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
+#if [ "$TRAVIS_BRANCH" != "gh-pages" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
 	#cd public
 
 	#git config user.email "bot@kstm.shinshu-u.ac.jp"
@@ -17,6 +17,6 @@ if [ "$TRAVIS_BRANCH" != "gh-pages" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; 
 
 	#cd ..
 
-	git push -f origin gh-pages
-fi
+	#git push -f origin gh-pages
+#fi
 

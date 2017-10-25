@@ -20,10 +20,11 @@ before_deploy:
   - cd public
   - git add --all
   - git commit -m 'Publish to gh-pages'
+  - git push origin gh-pages
 
 deploy:
   skip_cleanup: true
   provider: script
   script: ./scripts/deploy.sh
   on:
-    all_branches: true
+    branch: travis
