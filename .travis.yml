@@ -11,6 +11,7 @@ install:
 
 before_deploy:
   - ./hugo
+  - git worktree list
 
 deploy:
   skit_cleanup: true
