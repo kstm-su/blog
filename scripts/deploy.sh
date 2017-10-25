@@ -1,6 +1,9 @@
 #!/bin/bash
 
-set -e
+set -eu
+set -o pipefail
+
+cd "$(dirname $0)/.."
 
 #if [ "$TRAVIS_BRANCH" == "master" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
 if [ "$TRAVIS_BRANCH" != "gh-pages" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
