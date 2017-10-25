@@ -10,7 +10,7 @@ install:
   - tar xzf hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
 
 before_deploy:
-  - git worktree add public gh-pages
+  - git worktree add -B gh-pages public origin/gh-pages
   - ./hugo
 
 deploy:
