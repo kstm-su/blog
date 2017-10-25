@@ -11,7 +11,7 @@ install:
   - tar xzf hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
 
 before_deploy:
-  - git remote add origin ${GIT_URL}
+  - git remote set-url origin ${GIT_URL}
   - git worktree add -B gh-pages public origin/gh-pages
   - ./hugo
 
