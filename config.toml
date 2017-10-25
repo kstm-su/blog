@@ -6,7 +6,7 @@ baseURL = "http://kstm-su.github.io/blog"
 canonifyurls = true
 title = "kstm blog"
 author = "kstm"
-theme = "pixyll"
+theme = "ananke"
 
 [indexes]
   category = "categories"
