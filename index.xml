@@ -6,7 +6,7 @@
     <description>Recent content on kstm blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Wed, 25 Oct 2017 22:44:01 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Oct 2017 02:59:15 +0900</lastBuildDate>
     
 	<atom:link href="https://kstm-su.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Hello</title>
       <link>https://kstm-su.github.io/blog/posts/hello/</link>
-      <pubDate>Wed, 25 Oct 2017 22:44:01 +0900</pubDate>
+      <pubDate>Thu, 26 Oct 2017 02:59:15 +0900</pubDate>
       
       <guid>https://kstm-su.github.io/blog/posts/hello/</guid>
       <description>echo &#39;hello, world.&#39;  deployed by TravisCI !!</description>
