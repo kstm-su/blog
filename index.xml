@@ -17,7 +17,7 @@
       <pubDate>Wed, 25 Oct 2017 22:44:01 +0900</pubDate>
       
       <guid>https://kstm-su.github.io/blog/posts/hello/</guid>
-      <description>hello, world.  </description>
+      <description>hello, world.  deployed by TravisCI !!</description>
     </item>
     
   </channel>
