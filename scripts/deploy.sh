@@ -14,6 +14,6 @@ if [ "$TRAVIS_BRANCH" != "gh-pages" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; 
 
 	cd ..
 
-	git push origin gh-pages
+	git push -f origin gh-pages
 fi
 
