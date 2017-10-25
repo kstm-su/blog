@@ -11,4 +11,7 @@ before_deploy:
   - hugo
 
 deploy:
-  - ./scripts/deploy.sh
+  provider: script
+  script: ./scripts/deploy.sh
+  on:
+    all_branches: true
