@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on kstm blog</title>
-    <link>http://kstm.shinshu-u.ac.jp/blog/posts/</link>
+    <link>https://kstm.shinshu-u.ac.jp/blog/posts/</link>
     <description>Recent content in Posts on kstm blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Thu, 26 Oct 2017 02:59:15 +0900</lastBuildDate>
     
-	<atom:link href="http://kstm.shinshu-u.ac.jp/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kstm.shinshu-u.ac.jp/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello</title>
-      <link>http://kstm.shinshu-u.ac.jp/blog/posts/hello/</link>
+      <link>https://kstm.shinshu-u.ac.jp/blog/posts/hello/</link>
       <pubDate>Thu, 26 Oct 2017 02:59:15 +0900</pubDate>
       
-      <guid>http://kstm.shinshu-u.ac.jp/blog/posts/hello/</guid>
+      <guid>https://kstm.shinshu-u.ac.jp/blog/posts/hello/</guid>
       <description>echo &#39;hello, world.&#39;  deployed by TravisCI !!</description>
     </item>
     
