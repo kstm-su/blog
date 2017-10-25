@@ -1,20 +1,4 @@
+baseURL = "https://kstm-su.github.io/blog"
 languageCode = "ja-jp"
-contentdir = "content"
-publishdir = "public"
-builddrafts = false
-baseURL = "http://kstm-su.github.io/blog"
-canonifyurls = true
 title = "kstm blog"
-author = "kstm"
 theme = "ananke"
-
-[indexes]
-  category = "categories"
-  tag = "tags"
-
-[params]
-  search_engine = true
-  google_analytics_id = "XX-XXXXXXXX-X"
-  twitter_username = "kstm"
-  disqus_shortname = "kstm blog"
-  paginate = true
