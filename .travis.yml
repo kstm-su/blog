@@ -11,6 +11,7 @@ install:
 
 before_deploy:
   - ./hugo
+  - ls -alR public
 
 deploy:
   skit_cleanup: true
