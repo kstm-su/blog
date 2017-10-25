@@ -11,6 +11,7 @@ install:
 
 before_deploy:
   - ./hugo
+  - git worktree add -B gh-pages public origin/gh-pages
   - git worktree list
 
 deploy:

@@ -2,9 +2,6 @@
 
 set -e
 
-git worktree add -B gh-pages public origin/gh-pages
-git worktree list
-
 #if [ "$TRAVIS_BRANCH" == "master" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
 if [ "$TRAVIS_BRANCH" != "gh-pages" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
 	cd public
