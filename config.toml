@@ -1,4 +1,4 @@
-baseURL = "https://kstm-su.github.io/blog"
+baseURL = "http://kstm.shinshu-u.ac.jp/blog"
 languageCode = "ja-jp"
 title = "kstm blog"
 theme = "ananke"
