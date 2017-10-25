@@ -3,18 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://kstm-su.github.io/blog/posts/hello/</loc>
-    <lastmod>2017-10-25T22:44:01+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://kstm-su.github.io/blog/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kstm-su.github.io/blog/posts/</loc>
-    <lastmod>2017-10-25T22:44:01+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -25,7 +14,6 @@
   
   <url>
     <loc>http://kstm-su.github.io/blog/</loc>
-    <lastmod>2017-10-25T22:44:01+09:00</lastmod>
     <priority>0</priority>
   </url>
   
