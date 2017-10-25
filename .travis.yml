@@ -15,14 +15,9 @@ before_deploy:
   - git fetch origin gh-pages:remotes/origin/gh-pages
   - git worktree add -B gh-pages public origin/gh-pages
   - ./hugo
-  - cd public
-  - pwd
-  - ls
-  - git status
-  - git worktree list
 
 deploy:
-  skit_cleanup: true
+  skip_cleanup: true
   provider: script
   script: ./scripts/deploy.sh
   on:
