@@ -2,3 +2,6 @@ baseURL = "https://kstm.shinshu-u.ac.jp/blog"
 languageCode = "ja-jp"
 title = "kstm blog"
 theme = "ananke"
+
+[params]
+	featured_image = "/images/bg/"
