@@ -16,7 +16,7 @@ hugo new posts/new-post.md
 vim content/posts/new-post.md
 ```
 
-### commit & post
+### deploy
 
 ```bash
 git commit -m 'Write new post'
