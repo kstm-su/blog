@@ -101,5 +101,14 @@ ICPCは1チーム3人で、与えられる課題を解くプログラム書き�
 今年から信州大学総合情報センター長の不破泰教授主導の下、長野県内の市町村で小中学生に向けたプログラミング教室を行っています。</description>
     </item>
     
+    <item>
+      <title>ブログ移行</title>
+      <link>https://kstm.shinshu-u.ac.jp/blog/posts/old/</link>
+      <pubDate>Fri, 05 Feb 2010 00:00:00 +0900</pubDate>
+      
+      <guid>https://kstm.shinshu-u.ac.jp/blog/posts/old/</guid>
+      <description>ブログを移行しました。 古い記事はこちら をご覧ください。</description>
+    </item>
+    
   </channel>
 </rss>
