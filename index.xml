@@ -6,10 +6,19 @@
     <description>Recent content on kstm blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 25 Sep 2016 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 29 Oct 2017 22:25:00 +0900</lastBuildDate>
     
 	<atom:link href="https://kstm.shinshu-u.ac.jp/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OB訪問</title>
+      <link>https://kstm.shinshu-u.ac.jp/blog/posts/20171029-candle/</link>
+      <pubDate>Sun, 29 Oct 2017 22:25:00 +0900</pubDate>
+      
+      <guid>https://kstm.shinshu-u.ac.jp/blog/posts/20171029-candle/</guid>
+      <description>OBの @candle1388 さんが遊びに来てくれました。</description>
+    </item>
     
     <item>
       <title>ISUCON6 予選突破！</title>
