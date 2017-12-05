@@ -6,10 +6,21 @@
     <description>Recent content on kstm blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Wed, 01 Nov 2017 17:42:40 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2017 21:59:00 +0900</lastBuildDate>
     
 	<atom:link href="https://kstm.shinshu-u.ac.jp/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Advent Calendar 2017</title>
+      <link>https://kstm.shinshu-u.ac.jp/blog/posts/advent-calendar-2017/</link>
+      <pubDate>Tue, 05 Dec 2017 21:59:00 +0900</pubDate>
+      
+      <guid>https://kstm.shinshu-u.ac.jp/blog/posts/advent-calendar-2017/</guid>
+      <description>今年も流行に乗って Advent Calendar を書いています。 昨年は「なんでもあり」でしたが、今年は「技術ネタ」onlyにしようということになりました。
+まだ空いている日があるようなので、関係者はぜひエントリーしてください！！
+https://qiita.com/advent-calendar/2017/kstm &amp;gt; 今年もやります！ &amp;gt; 信州大学ものづくりサークルkstmのアドベントカレンダーです。 &amp;gt; &amp;gt; http://kstm.shinshu-u.ac.jp/ &amp;gt; &amp;gt; 12月中にサークルのメンバーが毎日代わる代わるコンピュータに関する記事について書きます。 &amp;gt; &amp;gt; 去年のアドベントカレンダー　→　https://qiita.com/advent-calendar/2016/kstm</description>
+    </item>
     
     <item>
       <title>ISUCON7 予選突破！</title>
