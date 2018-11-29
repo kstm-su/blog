@@ -172,5 +172,14 @@ ICPCは1チーム3人で、与えられる課題を解くプログラム書き�
       <description>ブログを移行しました。 古い記事はこちら をご覧ください。</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://kstm.shinshu-u.ac.jp/blog/posts/advent-calendar-2018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kstm.shinshu-u.ac.jp/blog/posts/advent-calendar-2018/</guid>
+      <description>advent-calendar-作ります。</description>
+    </item>
+    
   </channel>
 </rss>
