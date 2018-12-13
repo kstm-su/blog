@@ -1,3 +1,8 @@
+---
+title: "Advent Calendar 2018"
+date: 2018-12-13T20:5:00+09:00
+---
+
 # 2018年kstmの活動
 
 この記事は[アドベントカレンダー2018](https://qiita.com/advent-calendar/2017/kstm)の25日目です。
