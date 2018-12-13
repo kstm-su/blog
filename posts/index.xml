@@ -6,10 +6,24 @@
     <description>Recent content in Posts on kstm blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 13 Dec 2018 20:05:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 13 Dec 2018 20:10:00 +0900</lastBuildDate>
     
 	<atom:link href="https://kstm.shinshu-u.ac.jp/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Advent Calendar 2017</title>
+      <link>https://kstm.shinshu-u.ac.jp/blog/posts/kstm_network/</link>
+      <pubDate>Thu, 13 Dec 2018 20:10:00 +0900</pubDate>
+      
+      <guid>https://kstm.shinshu-u.ac.jp/blog/posts/kstm_network/</guid>
+      <description> kstmのネットワーク構成 筆者：Tsurugi
+これはアドベントカレンダー2018/12/15の記事でもあります。
+主旨 我が部のネットワークの引き継ぎ会の記録をまとめます。構成を知っている先輩方の卒業によるネットワークに対応する人がいなくなるのは危険なので記録として残したいと思います。会に参加できていない人にも見ていただきたいです。その他の方には我々がいかなる構成を成した環境に生きているか知ってもらい楽しんでもらえたら幸いです。
+本文 我々はネットワークの構成をgoogleスプレッドシートで共有しています。以下に修正を施した画像を示します。
+(画像) 私自身聞いた事をよく理解できていないですが、スイッチ・サーバの名前に関して、スイッチ名は通過点という意味で長野県の駅名を、サーバ名は走らせる側という意味で特急ないしの列車名ベースに、名前が付けられているということに目からウロコでした。それが分かるだけでだいぶ鮮明に何やってるか分かるので素晴らしいと思いました。 また、10.111.~.~の、「111」の由来として「kstm」のASCII値の平均を取ってる？らしく以下に教えてもらったコードを示します。
+var s=&amp;quot;kstm&amp;quot; Math.floor(s.split(&#39;&#39;).map(c =&amp;gt; c.codePointAt(0)).reduce((acc, cur) =&amp;gt; acc + cur)/s.length)  </description>
+    </item>
     
     <item>
       <title>Advent Calendar 2018</title>
@@ -189,20 +203,6 @@ ICPCは1チーム3人で、与えられる課題を解くプログラム書き�
       
       <guid>https://kstm.shinshu-u.ac.jp/blog/posts/old/</guid>
       <description>ブログを移行しました。 古い記事はこちら をご覧ください。</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://kstm.shinshu-u.ac.jp/blog/posts/kstm_network/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kstm.shinshu-u.ac.jp/blog/posts/kstm_network/</guid>
-      <description> kstmのネットワーク構成 筆者：Tsurugi
-これはアドベントカレンダー2018/12/15の記事でもあります。
-主旨 我が部のネットワークの引き継ぎ会の記録をまとめます。構成を知っている先輩方の卒業によるネットワークに対応する人がいなくなるのは危険なので記録として残したいと思います。会に参加できていない人にも見ていただきたいです。その他の方には我々がいかなる構成を成した環境に生きているか知ってもらい楽しんでもらえたら幸いです。
-本文 我々はネットワークの構成をgoogleスプレッドシートで共有しています。以下に修正を施した画像を示します。
-(画像) 私自身聞いた事をよく理解できていないですが、スイッチ・サーバの名前に関して、スイッチ名は通過点という意味で長野県の駅名を、サーバ名は走らせる側という意味で特急ないしの列車名ベースに、名前が付けられているということに目からウロコでした。それが分かるだけでだいぶ鮮明に何やってるか分かるので素晴らしいと思いました。 また、10.111.~.~の、「111」の由来として「kstm」のASCII値の平均を取ってる？らしく以下に教えてもらったコードを示します。
-var s=&amp;quot;kstm&amp;quot; Math.floor(s.split(&#39;&#39;).map(c =&amp;gt; c.codePointAt(0)).reduce((acc, cur) =&amp;gt; acc + cur)/s.length)  </description>
     </item>
     
   </channel>
