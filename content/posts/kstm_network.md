@@ -16,13 +16,13 @@ date: 2018-12-14T01:26:00+09:00
 
 我々はネットワークの構成をgoogleスプレッドシートで共有しています。以下に修正を施した画像を示します。
 
-![スプレッドシート](../image/AdC15-1.png)
+![スプレッドシート](https://github.com/kstm-su/blog/blob/master/content/image/AdC15-1.png)
 
 次に先輩が書き起こしてくださった図を示します。ホワイトボードの反射光で部室が見えたので修正してあります。
 
-![wboard](../image/AdC15-2.jpg)
+![wboard](https://github.com/kstm-su/blog/blob/master/content/image/AdC15-2.jpg)
 
-![wboard2](../image/AdC15-3.jpg)
+![wboard2](https://github.com/kstm-su/blog/blob/master/content/image/AdC15-3.jpg)
 
 行がVlan、列が何らかの装置(スイッチやサーバ)で、接続が黒丸でtrankが白丸で表現されています。
 
