@@ -6,7 +6,7 @@
     <description>Recent content in Posts on kstm blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Fri, 14 Dec 2018 01:26:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 14 Dec 2018 12:56:00 +0900</lastBuildDate>
     
 	<atom:link href="https://kstm.shinshu-u.ac.jp/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,13 +14,14 @@
     <item>
       <title>kstm_network</title>
       <link>https://kstm.shinshu-u.ac.jp/blog/posts/kstm_network/</link>
-      <pubDate>Fri, 14 Dec 2018 01:26:00 +0900</pubDate>
+      <pubDate>Fri, 14 Dec 2018 12:56:00 +0900</pubDate>
       
       <guid>https://kstm.shinshu-u.ac.jp/blog/posts/kstm_network/</guid>
       <description>kstmのネットワーク構成 筆者：Tsurugi
 これはアドベントカレンダー2018/12/15の記事でもあります。
 主旨 我が部のネットワークの引き継ぎ会の記録をまとめます。構成を知っている先輩方の卒業によるネットワークに対応する人がいなくなるのは危険なので記録として残したいと思います。会に参加できていない人にも見ていただきたいです。その他の方には我々がいかなる構成を成した環境に生きているか知ってもらい楽しんでもらえたら幸いです。
 本文 我々はネットワークの構成をgoogleスプレッドシートで共有しています。以下に修正を施した画像を示します。
+左の列に装置名、上の行にvlanIDで、表内にIPアドレスを記入しています。
 次に先輩が書き起こしてくださった図を示します。ホワイトボードの反射光で部室が見えたので修正してあります。
 行がVlan、列が何らかの装置(スイッチやサーバ)で、接続が黒丸でtrankが白丸で表現されています。
 手書きの画像ファイルでは扱いにくいということで、現在グラフないしを製作中とのことです。
