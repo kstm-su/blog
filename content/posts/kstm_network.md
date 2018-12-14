@@ -16,15 +16,15 @@ date: 2018-12-14T12:56:00+09:00
 
 我々はネットワークの構成をgoogleスプレッドシートで共有しています。以下に修正を施した画像を示します。
 
-![スプレッドシート](../image/KstmNetwork/AdC15-1_with-blur.png)
+![スプレッドシート](../../image/KstmNetwork/AdC15-1_with-blur.png)
 
 左の列に装置名、上の行にvlanIDで、表内にIPアドレスを記入しています。
 
 次に先輩が書き起こしてくださった図を示します。ホワイトボードの反射光で部室が見えたので修正してあります。
 
-![wboard](../image/KstmNetwork/AdC15-2.jpg)
+![wboard](../../image/KstmNetwork/AdC15-2.jpg)
 
-![wboard2](../image/KstmNetwork/AdC15-3.jpg)
+![wboard2](../../image/KstmNetwork/AdC15-3.jpg)
 
 行がVlan、列が何らかの装置(スイッチやサーバ)で、接続が黒丸でtrankが白丸で表現されています。
 
