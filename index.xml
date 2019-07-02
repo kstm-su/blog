@@ -6,10 +6,21 @@
     <description>Recent content on kstm blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Wed, 26 Dec 2018 20:05:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2019 20:05:00 +0900</lastBuildDate>
     
 	<atom:link href="https://kstm.shinshu-u.ac.jp/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ベーコンを作りました</title>
+      <link>https://kstm.shinshu-u.ac.jp/blog/posts/generate_bacon/</link>
+      <pubDate>Tue, 25 Jun 2019 20:05:00 +0900</pubDate>
+      
+      <guid>https://kstm.shinshu-u.ac.jp/blog/posts/generate_bacon/</guid>
+      <description>kstmの活動の一環で手作りベーコンを作成しました．
+合計８ｋｇ仕込みました．仕込みには都合２週間ほどかかりました．
+よかったですね</description>
+    </item>
     
     <item>
       <title>Advent Calendar 2018</title>
