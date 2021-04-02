@@ -4,7 +4,7 @@ env:
   global:
     - GIT_AUTHOR_EMAIL=bot@kstm.shinshu-u.ac.jp
     - GIT_AUTHOR_NAME=bot
-    - HUGO_VERSION=0.30.2
+    - HUGO_VERSION=0.82.0
     - secure: "I/YJhE3p4zW9O/z7ienAXgv+Vamdvp/fV3eHfbHxMcOZaF+CN1c3bbJbRPMmsW2QHBWq/TrDtJ/0xDOoYen1AO09paumcG7JERjSGQkxLxHoetc/JTU+Ug4P2Ohs9/9vTKLTL10FJoOB3OeQeShHL9PXCtmzxyBhYZ6EyFLP6M26XB9nNIPg5MIMoxiWpRQTop2RhJp3lVHeJAzHbWrY64NgmGIoWkpT3xfZ0o66RJGTTN/hBnQohSbocShkSWg1qfp5g/btqp/D/RyNpZuHfcZApNBvZ9lEY1LLsgXSx/umVIHELWpQMMzhMGsG7+/Hi9jx6rHDIIybRU0dMEXuMwo+XnpNcoYPrvmLW8AYddBIAruGIG+r22wdLCtusr06SEvC5Qui/VmNDK3Er09Bm9R/wzGHC/EbHWirpiiu4beWIh01oho9ruX7jZjgOP+CuhqsCNg3usLMHCZsvjVabzvQcNHHtyI6mJiqCAth7dcGTzuDasEdJfVhG8JpG0bTmIuD0CsQYCDeGeV+1lSaT9x4ZlPR/An8zU2jkjcvaluMXKbs8re7HKPXkm/9mB8Dmy2CR7Gz1a9L8MbRxrNwORhTXyObivKcEoGlz8fKpIl3Kx45wGlNeHsITmkCUmVJgthohGYAxVUG1MUw1G74LidkKUrI7YWqVwF8dekuKRo="
     - GIT_URL=https://${GIT_TOKEN}@github.com/kstm-su/blog.git
 
