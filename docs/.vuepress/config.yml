@@ -1,0 +1,10 @@
+title: 'kstmのブログ'
+dist: dist
+
+themeConfig:
+  lastUpdated: '最終更新'
+  nav:
+    - text: 'kstm ホームページ'
+      link: 'https://kstm.shinshu-u.ac.jp'
+    - text: 'GitHub'
+      link: 'https://github.com/kstm-su'
