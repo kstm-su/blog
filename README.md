@@ -7,18 +7,31 @@
 ### generate
 
 ```bash
-hugo new posts/new-post.md
+touch docs/new-post.md
+```
+
+```yml
+# docs/.vuepress/config.yml
+
+sidebar:
+  - 'new-post' # add top
+  ...
 ```
 
 ### edit
 
-```bash
-vim content/posts/new-post.md
+```markdown
+<!-- vim docs/new-post.md -->
+
+---
+title: 'awesome title here'
+---
+
+# Awesome page title here
+
+content goes on...
 ```
 
 ### deploy
 
-```bash
-git commit -m 'Write new post'
-git push
-```
+Powered by Vercel or Netlify :construction:
