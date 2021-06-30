@@ -5,7 +5,7 @@ date: 2019-06-25T20:05:00+09:00
 
 kstmの活動の一環で手作りベーコンを作成しました．
 
-![これはベーコンです](../image/genarate_bacon/bacon_kansei.jpg)
+![これはベーコンです](/genarate_bacon/bacon_kansei.jpg)
 
 合計８ｋｇ仕込みました．仕込みには都合２週間ほどかかりました．
 
