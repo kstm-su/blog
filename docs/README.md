@@ -8,16 +8,15 @@ actionLink: /aboutus
 footer: MIT Licensed | Copyright © 2021 kstm-su
 ---
 
+::: tip blog
+部員による記事を[blog](/posts/)にて不定期で更新しています｡  
+:::
+
 ::: tip 活動内容
 [kstmについて](/aboutus)をご覧ください。
 :::
 
 ::: tip メンバー募集
 新メンバーを募集しています。
-入部希望の方は[部員募集](join)を参照してください。
-:::
-
-::: tip 連絡先
-kstmに関するご連絡・ご質問などは kstm-ml[at]shinshu-u.ac.jp までお寄せください。  
-(スパム防止のため@を[at]に変更しています。手入力してください。)
+入部希望の方は[Join](/join)を参照してください。
 :::
