@@ -16,15 +16,15 @@ date: 2018-12-14T12:56:00+09:00
 
 我々はネットワークの構成をgoogleスプレッドシートで共有しています。以下に修正を施した画像を示します。
 
-![スプレッドシート](../../image/KstmNetwork/AdC15-1_with-blur.png)
+![スプレッドシート](/KstmNetwork/AdC15-1_with-blur.png)
 
 左の列に装置名、上の行にvlanIDで、表内にIPアドレスを記入しています。
 
 次に先輩が書き起こしてくださった図を示します。ホワイトボードの反射光で部室が見えたので修正してあります。
 
-![wboard](../../image/KstmNetwork/AdC15-2.jpg)
+![wboard](/KstmNetwork/AdC15-2.jpg)
 
-![wboard2](../../image/KstmNetwork/AdC15-3.jpg)
+![wboard2](/KstmNetwork/AdC15-3.jpg)
 
 行がVlan、列が何らかの装置(スイッチやサーバ)で、接続が黒丸でtrankが白丸で表現されています。
 
@@ -49,8 +49,3 @@ Math.floor(s.split('').map(c => c.codePointAt(0)).reduce((acc, cur) => acc + cur
 機能していない(存在していない)項目がシートに残っている等の情報を修正できて、シートの信頼性が向上できたので是非、確認できる人には確認して興味持っていただきたく思います。
 
 見れない人でも興味があれば、部長(私)か部長が誰なのか知ってる人に言ってください。検討します。(ストレートで承認と思いますが)
-
-
-
-
-
